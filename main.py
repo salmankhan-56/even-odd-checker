@@ -1,6 +1,2 @@
-num = int(input('Enter a number: '))
-
-if num % 2 == 0:
-    print(num, 'is Even')
-else:
-    print(num, 'is Odd')
+print("Welcome to even-odd-checker")
+print("This is the main program file.")
