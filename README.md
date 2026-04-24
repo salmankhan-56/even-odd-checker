@@ -1,15 +1,14 @@
 # even-odd-checker
 
-This repository contains multiple academic code files for practice and learning.
+## Description
+This repository contains Python programs related to even-odd-checker.
 
-## Files Included
+## Files
 - main.py
 - program_1.py
 - program_2.py
 - program_3.py
-- notes.md
+- README.md
 
 ## How to Run
-Use Python:
-
 python main.py

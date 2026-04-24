@@ -1,2 +1,2 @@
-print("Welcome to even-odd-checker")
-print("This is the main program file.")
+print("Project: even-odd-checker")
+print("Main program executed successfully.")
